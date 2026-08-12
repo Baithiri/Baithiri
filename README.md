@@ -1,4 +1,4 @@
-<h1 align="center">Maxwell Baithiri</h1>
+<h1 align="center">Maxwel Baithiri</h1>
 
 <h3 align="center">
 Software Engineer • Backend Developer • ICT Professional
